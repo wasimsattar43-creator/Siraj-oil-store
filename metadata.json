@@ -1,0 +1,6 @@
+{
+  "name": "Siraj Oil Store",
+  "description": "Pakistan's premier multi-brand automotive engine oil and lubricant retailer and reseller. 100% genuine sealed packs guaranteed.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
